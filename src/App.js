@@ -10,7 +10,7 @@ import Contact from "./components/pages/Contact";
 
 function App() {
   return (
-    <BrowserRouter className="container">
+    <BrowserRouter basename="/pathshalaportfolio" className="container">
       <Routes>
         <Route path="/" element={<Navbar />}>
           <Route index element={<Home />} />
