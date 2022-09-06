@@ -20,7 +20,7 @@ function Contact() {
 
   const formSubmit = (e) => {
     e.preventDefault();
-    alert(`Thank you  ${data.name}   ! Your message is saved.`);
+    alert(`Thank you ${data.name}! Your message is saved.`);
   };
 
   return (
