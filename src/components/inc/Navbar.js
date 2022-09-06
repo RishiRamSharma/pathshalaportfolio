@@ -26,18 +26,20 @@ function Navbar() {
             data-bs-toggle="offcanvas"
             data-bs-target="#offcanvasNavbar"
             aria-controls="offcanvasNavbar"
+           
           >
             <span className="navbar-toggler-icon"></span>
           </button>
           <div
-            className="offcanvas offcanvas-end"
+            className="offcanvas offcanvas-end "
             tabindex="-1"
             id="offcanvasNavbar"
             aria-labelledby="offcanvasNavbarLabel"
+            style={{width:"238px"}}
           >
             <div className="offcanvas-header">
               <h5 className="offcanvas-title" id="offcanvasNavbarLabel">
-                Pathshala
+                Pathshala Classes
               </h5>
               <button
                 type="button"
