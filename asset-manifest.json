@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/pathshalaportfolio/static/css/main.16a5b3ae.css",
+    "main.js": "/pathshalaportfolio/static/js/main.fd765bda.js",
+    "static/media/Holi.jpg": "/pathshalaportfolio/static/media/Holi.1af2b9355e515e84cb4f.jpg",
+    "static/media/laughter_one.jpg": "/pathshalaportfolio/static/media/laughter_one.dd40e62b68f91efd88f8.jpg",
+    "static/media/LaughterDay.jpg": "/pathshalaportfolio/static/media/LaughterDay.1f49ff5358667617de2d.jpg",
+    "static/media/enjoy.jpg": "/pathshalaportfolio/static/media/enjoy.f60cf346a4ed5e6494d3.jpg",
+    "static/media/national_three.jpg": "/pathshalaportfolio/static/media/national_three.972ee045a78a83eb9157.jpg",
+    "static/media/national_two.jpg": "/pathshalaportfolio/static/media/national_two.c6120550a67febc716c9.jpg",
+    "static/media/ScienceDay.jpg": "/pathshalaportfolio/static/media/ScienceDay.603ccd3293a0ae3c48b8.jpg",
+    "static/media/national_four.jpg": "/pathshalaportfolio/static/media/national_four.603ccd3293a0ae3c48b8.jpg",
+    "static/media/national_one.jpg": "/pathshalaportfolio/static/media/national_one.0348f12bc68a988958f4.jpg",
+    "static/media/national_five.jpg": "/pathshalaportfolio/static/media/national_five.1bbb9d9c0460b59a36ad.jpg",
+    "static/media/vikash.jpg": "/pathshalaportfolio/static/media/vikash.88ef8b61cd0ae90361bf.jpg",
+    "static/media/study.jpg": "/pathshalaportfolio/static/media/study.cc55f28271cec4e3a6f2.jpg",
+    "static/media/Tarun.jpg": "/pathshalaportfolio/static/media/Tarun.bea66c40289b89f61ef1.jpg",
+    "static/media/Chirag.jpg": "/pathshalaportfolio/static/media/Chirag.2caeedf15e4325953eec.jpg",
+    "index.html": "/pathshalaportfolio/index.html",
+    "main.16a5b3ae.css.map": "/pathshalaportfolio/static/css/main.16a5b3ae.css.map",
+    "main.fd765bda.js.map": "/pathshalaportfolio/static/js/main.fd765bda.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.16a5b3ae.css",
+    "static/js/main.fd765bda.js"
+  ]
+}
